@@ -92,7 +92,7 @@ a:focus {
 /*header section*/
 .hero_area {
   position: relative;
-  min-height: 100vh;
+  min-height: 40vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -100,7 +100,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-          background-color: #821131;
+         
 }
 
 .bg-box {
@@ -108,7 +108,7 @@ a:focus {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 60%;
 }
 
 .bg-box img {
@@ -350,7 +350,7 @@ a:focus {
 }
 
 .slider_section .detail-box p {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .slider_section .detail-box a {
@@ -362,7 +362,7 @@ a:focus {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
-  margin-top: 10px;
+  margin-top: 100px;
 }
 
 .slider_section .detail-box a:hover {
@@ -388,7 +388,7 @@ a:focus {
   background-color: #ffffff;
   width: 12px;
   height: 12px;
-  border-radius: 100%;
+  border-radius: 60%;
   opacity: 1;
 }
 
