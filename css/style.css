@@ -108,7 +108,7 @@ a:focus {
   top: 0;
   left: 0;
   width: 100%;
-  height: 60%;
+  height: 100%;
 }
 
 .bg-box img {
@@ -388,7 +388,7 @@ a:focus {
   background-color: #ffffff;
   width: 12px;
   height: 12px;
-  border-radius: 60%;
+  border-radius: 100%;
   opacity: 1;
 }
 
